@@ -7,6 +7,14 @@ public class Stack<T> {
     public void push(T data) {
         linkedList1.add(data);
     }
+    public void pop() {
+        linkedList1.firstElementDelete();
+    }
+
+    public void peek() {
+        linkedList1.peek();
+    }
+
     public void toPrint() {
         linkedList1.display();
     }
