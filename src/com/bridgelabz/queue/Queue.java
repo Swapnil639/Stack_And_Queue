@@ -13,5 +13,6 @@ public class Queue<T> {
     }
     public void toPrint() {
         linkedList.display();
+        
     }
 }
