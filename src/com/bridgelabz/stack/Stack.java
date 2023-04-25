@@ -7,5 +7,8 @@ public class Stack<T> {
     public void push(T data) {
         linkedList1.add(data);
     }
+    public void toPrint() {
+        linkedList1.display();
+    }
 
 }

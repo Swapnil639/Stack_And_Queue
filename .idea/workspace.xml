@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078d0f54-7ef1-4f67-9d4a-87056893f3dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_And_Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/linkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/stack/StackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/stack/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/stack/StackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
