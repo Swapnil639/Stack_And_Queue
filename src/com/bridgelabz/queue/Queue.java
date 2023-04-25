@@ -8,6 +8,9 @@ public class Queue<T> {
     public void enque(T data) {
         linkedList.append(data);
     }
+    public void deque() {
+        linkedList.firstElementDelete();
+    }
     public void toPrint() {
         linkedList.display();
     }

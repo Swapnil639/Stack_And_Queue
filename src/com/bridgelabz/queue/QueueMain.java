@@ -7,5 +7,8 @@ public class QueueMain {
         queue.enque(30);
         queue.enque(70);
         queue.toPrint();
+
+        queue.deque();
+        queue.toPrint();
     }
 }
